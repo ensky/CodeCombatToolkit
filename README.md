@@ -1,2 +1,2 @@
 # CodeCombatToolkit
-Code Combat Toolkit for CoffieScript
+Code Combat Toolkit for CoffeeScript
